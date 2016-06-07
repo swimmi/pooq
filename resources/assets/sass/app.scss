@@ -1,0 +1,16 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$bgcolor : white;
+$primary : blue;
+
+body {
+    background: $bgcolor;
+}
+
+.navbar-brand {
+    padding: 1px 15px;
+}
+.logo-img {
+    width: 48px;
+    height: 48px;
+}
